@@ -1,0 +1,4 @@
+coinReconstructionAfterCorrected.png = completeUSdimeReconstruction.png
+coinReconstructionAfterCorrected_zoomIn.png = USdimeReconstruction_planeWaveApprox.png
+referenceBeamIntensityProfile.png = refBeamProfile.png
+coinReconstructionAfter_zoomIn.png = USdimeReconstruction_fApprox.png
