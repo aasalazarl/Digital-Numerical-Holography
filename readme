@@ -1,0 +1,33 @@
+Code for the study "Saturation eects on two- and three-dimensional digital holographic reconstructions
+employing a CCD camera"
+
+Experimental setup: 
+Read the document "digitalHolography_report_ salazar lobos_alejandro.pdf"
+
+How to use code
+
+2D Holographic Reconstruction:
+
+1) IntensityProfile.m -> for the study of the intensity pattern as recorded by the CCD camera
+2) fresnelReconstrucion.m -> the numerical transformation of in phase space to real space of the
+   development of the holographic reconstruction
+
+   I_ref = reference intensity pattern without the presence of the obejct to be reconstruction
+   coin5 = intensity pattern as reflected by the surface to be reconstructed
+   * plane wave approximations yielded better results
+  
+Digital Tomography/3D Holographic Reconstruction:
+
+1) IntensityProfile.m -> for the study of the intensity pattern as recorded by the CCD camera
+2) 13AngleTomography_0.09.m -> tomography performed at a 0.09 m distance between rotated object in 13
+   angles and the CCD camera
+
+   referenceBeamIntensityProfile = intensity pattern without 3D object present
+   combinedBeanProfile = intensity pattern when 3D object is present
+   13AngleTomography_0.09 = best reconstruction result obtained
+   pic0,,15,30,45,60,75,90,105,120,135,150,165,180 = different angles used to scan the 3D object
+   
+   
+
+   
+   
