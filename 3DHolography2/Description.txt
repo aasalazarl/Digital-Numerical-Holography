@@ -1,0 +1,5 @@
+combinedBeamIntensityProfile.png = wireLoopCombinedBeamProfile.png
+pic0.bmp = shadow.bmp
+wireLoopTomography.png = combination of object.png, shadow.bmp, tomoReconstruction.png
+referenceBeamIntensityProfile.png = wireLoopRefBeamProfile.png
+wireLoopBeamProfile.png = combination of wireLoopRefBeamProfile.png and wireLoopCombinedProfile.png
